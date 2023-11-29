@@ -19,4 +19,5 @@ issue of floating water waste in water reservoirs and develop an efficient and a
 for its collection. The authors aimed to design a simple yet effective system that could 
 effectively gather and remove floating debris and pollutants from water bodies.
 
+Read more [here](www.google.com)
 
